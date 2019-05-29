@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoLocationSource</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Altitude">Altitude</string>
+    <string name="Speed">Speed</string>
+    <string name="Bearing">Course</string>
+    <string name="GpsStatus">GPS status</string>
+    <string name="NotActive">Not active</string>
+    <string name="Active">Active</string>
+    <string name="TargetIPCaption">Target IP</string>
+    <string name="DefaultTargetIP">10.5.1.148</string>
+    <string name="TargetPortCaption">Target port</string>
+    <string name="DefaultTargetPort">5555</string>
+    <string name="ActivateConnectionCaption">Start</string>
+    <string name="preference_file_key">ru.rodsoft.geolocationsource</string>
+    <string name="saved_target_ip_key">TargetIP</string>
+    <string name="saved_target_port_key">TargetPort</string>
+    <string name="saved_activated_key">ConnectionActivated</string>
+    <string name="PermissionError">Not enough permissions</string>
+    <string name="error_neterror">Network error</string>
+    <string name="error_invalidaddr">Invalid IP</string>
+</resources>
